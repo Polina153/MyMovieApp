@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Movie App</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_title">Моя фильмотека</string>
+    <string name="nav_header_subtitle">фильмы, подборки, отзывы</string>
+    <string name="menu_home">Главная</string>
+    <string name="menu_favorites">Избранное</string>
+    <string name="menu_ratings">Рейтинг</string>
+    <string name="search_title">Поиск фильмов</string>
+    <string name="search_history_title">История поиска</string>
+    <string name="action_settings">Настройки</string>
+    <string name="default_text_movie_details_name_movie">Региональное наименование фильма</string>
+    <string name="default_text_movie_details_original_name_movie">Оригинальное название и (ГГГГ)</string>
+    <string name="genre_stub">Какой-то жанр</string>
+    <string name="default_text_movie_details_duration_movie">123 мин.</string>
+    <string name="default_text_movie_details_rating_movie">8.5</string>
+    <string name="default_text_movie_details_budget_movie">Бюджет: 1 234 567 890 $</string>
+    <string name="default_text_movie_details_revenue_movie">Сборы: 1 234 567 890 $</string>
+    <string name="default_text_movie_details_release_data_movie">Дата релиза: (2018-12-06)</string>
+</resources>
